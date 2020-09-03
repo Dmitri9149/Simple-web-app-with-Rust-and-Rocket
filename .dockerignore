@@ -1,0 +1,9 @@
+.git
+.gitignore
+.cashe
+*.swp
+*.o
+*a
+tmp
+log
+
