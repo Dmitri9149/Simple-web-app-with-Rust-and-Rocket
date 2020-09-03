@@ -1,0 +1,10 @@
+# initially published port was not work
+# solution form here 
+# https://stackoverflow.com/questions/54119006/why-is-are-my-published-ports-not-working
+
+
+[global]
+address = "0.0.0.0"
+
+[development]
+address = "0.0.0.0"
