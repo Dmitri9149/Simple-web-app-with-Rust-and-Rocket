@@ -1,5 +1,5 @@
-### Simple app to compare syntaxis of id functions
-### The add use Rust and Rocked for web development
+### Simple web app to compare syntax of id functions
+### The app use Rust and Rocked for web development
 
 ### Installation 
 
@@ -11,18 +11,19 @@ Run ```cargo run``` from "identity" folder.
 
 The list of programming languages is: 
 
-C
-C++
-Scala
-Java
-JavaScript
-OCaml
-Rust
-Idris
-Agda
-Python
+- C
+- C++
+- Scala
+- Java
+- JavaScript
+- OCaml
+- Rust
+- Idris
+- Agda
+- Python
+- Haskell
 
-In the broeser adress bar print : ```localhost:8000/identity/JavaScript ```  or amy other name from the list. The output will be the id function in the language. 
+In the browser adress bar print : ```localhost:8000/identity/JavaScript ```  or any other name from the list. The output will be the id function in the language. 
 
 It is possible to pull the Docker image of the project. 
 
