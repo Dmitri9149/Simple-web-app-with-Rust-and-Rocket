@@ -7,3 +7,10 @@
 tmp
 log
 
+target
+.dockerignore
+
+
+
+# ignore all *.class files in all folders, including build root
+**/*.class
