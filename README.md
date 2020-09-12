@@ -25,7 +25,7 @@ The list of programming languages is:
 
 In the browser adress bar print : ```localhost:8000/identity/JavaScript ```  or any other name from the list. The output will be the id function in the language. 
 
-It is possible to pull the Docker image of the project. 
+It is possible to pull the Docker image of the project by : docker pull dmitri9149/identity_functions. 
 
 
 
